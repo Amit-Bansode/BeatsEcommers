@@ -1,4 +1,4 @@
-package com.beats.beatsecommers
+package com.beats.beatsecommerce
 
 import org.junit.Test
 
